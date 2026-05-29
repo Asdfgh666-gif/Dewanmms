@@ -15,7 +15,7 @@
         "expiry_date": "2030-12-31",
         "expiry_time": "23:59",
         "linked_devices": {
-          "YOUR_ACTUAL_HWID_HERE": {
+          "453542C273D757EB": {
             "model": "My Phone"
           }
         },
