@@ -1,14 +1,4 @@
 {
-  "info_dialog": {
-    "close_btn_text": "CLOSE",
-    "dev_name": "Admin",
-    "dev_skills": "Modded",
-    "dev_telegram": "@your_handle",
-    "title": "SYSTEM UNLOCKED"
-  },
-  "links": {
-    "admin_redirect_url": ""
-  },
   "security": {
     "authorized_hwids": {
       "0001": {
@@ -24,5 +14,16 @@
         "status": "active"
       }
     }
+  },
+  "ui_settings": {
+    "broadcast_msg": "System Bypassed Successfully",
+    "main_bio": "Welcome To NMMS Login System",
+    "main_name": "DP MOD ",
+    "maintenance": false,
+    "maintenance_msg": "Server Online",
+    "show_broadcast": true,
+    "tag_1": "Testing mod",
+    "tag_2": "V2.0",
+    "verify_btn_text": "LOGIN"
   }
 }
