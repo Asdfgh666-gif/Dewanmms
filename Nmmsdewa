@@ -1,63 +1,16 @@
 {
-  "info_dialog": {
-    "close_btn_text": "CLOSE",
-    "dev_name": "",
-    "dev_skills": "",
-    "dev_telegram": "",
-    "title": "DP MOD"
-  },
-  "links": {
-    "admin_redirect_url": ""
-  },
-  "security": {
-    "authorized_hwids": {
-      "00000": {
-        "expiry_date": "2026-06-13",
-        "expiry_time": "23:59",
-        "linked_devices": {
-          "453542C273D757Eh": {
-            "model": "OPPO CPH2757"
-          }
-        },
-        "max_devices": 1,
-        "remarks": "",
-        "status": "active"
-      },
-      "1": {
-        "expiry_date": "2026-06-23",
-        "expiry_time": "23:59",
-        "linked_devices": {
-          "453542C273D757EB": {
-            "model": "VIVO V2515"
-          }
-        },
-        "max_devices": 1,
-        "remarks": "",
-        "status": "active"
-      },
-      "a": {
-        "expiry_date": "2026-06-26",
-        "expiry_time": "23:59",
-        "linked_devices": {
-          "bb63a8e4d33fccec": {
-            "model": "SAMSUNG SM-A536E"
-          }
-        },
-        "max_devices": 1,
-        "remarks": "",
-        "status": "active"
-      }
-    }
-  },
-  "ui_settings": {
-    "broadcast_msg": "",
-    "main_bio": "Welcome To NMMS Login System",
-    "main_name": "DP MOD ",
-    "maintenance": false,
-    "maintenance_msg": "Server Locked Down",
-    "show_broadcast": false,
-    "tag_1": "Testing mod",
-    "tag_2": "V2.0",
-    "verify_btn_text": "LOGIN"
-  }
+  "showDialog": true,
+  "appVersionCode": 1,
+  "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
+  "updateButtonText": "Update",
+  "updateButtonLink": "https://google.com",
+  "updateButtonGradientStartColor": "#1E88E5",
+  "updateButtonGradientEndColor": "#64B5F6",
+  "cancelButtonText": "Cancel",
+  "cancelClosesApp": true,
+  "cancelButtonGradientStartColor": "#1E88E5",
+  "cancelButtonGradientEndColor": "#64B5F6",
+  "textGradientStartColor": "#1E88E5",
+  "textGradientEndColor": "#64B5F6",
+  "dialogBackgroundColor": "#FFFFFF"
 }
